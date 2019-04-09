@@ -1,0 +1,6 @@
+2019-04-03 13:30:16 TestLogger [INFO] this is info message
+2019-04-03 13:30:16 TestLogger [FATAL] this is fatal message
+2019-04-03 13:30:16 TestLogger [WARN] this is warn message
+2019-04-03 13:30:16 TestLogger [DEBUG] this is debug message
+2019-04-03 13:30:16 TestLogger [TRACE] this is trace message
+2019-04-03 13:30:16 TestLogger [ERROR] this is error message
